@@ -245,7 +245,7 @@
   },
 
   "contact.createFilterTooltip": {
-    "message": "create filter for sender",
+    "message": "Create filter for sender",
     "description": "Tooltip shown on the create filter for contact button"
   },
 
@@ -265,12 +265,12 @@
   },
 
   "contact.sendEmailTooltip": {
-    "message": "send email",
+    "message": "Send email",
     "description": "Tooltip shown on the send email button"
   },
 
   "contact.recentConversationsTooltip": {
-    "message": "recent conversations",
+    "message": "Recent conversations",
     "description": "Tooltip shown on the recent conversations button"
   },
 
@@ -325,17 +325,17 @@
   },
 
   "message.showDetails.tooltip": {
-    "message": "show details",
+    "message": "Show details",
     "description": "Tooltip for showing message header details"
   },
 
   "message.hideDetails.tooltip": {
-    "message": "hide details",
+    "message": "Hide details",
     "description": "Tooltip for hiding message header details"
   },
 
   "message.moreMenu.tooltip": {
-    "message": "more",
+    "message": "More",
     "description": "Tooltip for the more menu"
   },
 
@@ -350,22 +350,22 @@
   },
 
   "action.archive": {
-    "message": "archive this message",
+    "message": "Archive This Message",
     "description": "Archive button name in the message more menu"
   },
 
   "action.delete": {
-    "message": "delete this message",
+    "message": "Delete This Message",
     "description": "Delete button name in the message more menu"
   },
 
   "action.viewClassic": {
-    "message": "view using the classic reader",
+    "message": "View Using The Classic Reader",
     "description": "Show in classic view button name in the message more menu"
   },
 
   "action.viewSource": {
-    "message": "view message source",
+    "message": "View Message Source",
     "description": "View source button name in the message more menu"
   },
 
@@ -375,7 +375,7 @@
   },
 
   "notification.ignoreScamWarning": {
-    "message": "ignore warning",
+    "message": "Ignore warning",
     "description": "Button title to ignore a junk/scam message"
   },
 
@@ -405,12 +405,12 @@
   },
 
   "notification.showRemote": {
-    "message": "show remote content",
+    "message": "Show remote content",
     "description": "Button title to show remote content"
   },
 
   "notification.alwaysShowRemote": {
-    "message": "always show remote content from $fromEmail$",
+    "message": "Always show remote content from $fromEmail$",
     "description": "Button title to always show remote content.",
     "placeholders": {
       "fromEmail": {
@@ -421,47 +421,47 @@
   },
 
   "action.editDraft": {
-    "message": "edit draft",
+    "message": "Edit Draft",
     "description": "Edit draft button name in the message more menu"
   },
 
   "action.reply": {
-    "message": "reply",
+    "message": "Reply",
     "description": "Reply button name in the message more menu"
   },
 
   "action.replyAll": {
-    "message": "reply all",
+    "message": "Reply All",
     "description": "Reply all button name in the message more menu"
   },
 
   "action.replyList": {
-    "message": "reply to list",
+    "message": "Reply To List",
     "description": "Reply list button name in the message more menu"
   },
 
   "action.editNew": {
-    "message": "edit as new",
+    "message": "Edit As New",
     "description": "Edit as new button name in the message more menu"
   },
 
   "action.forward": {
-    "message": "forward",
+    "message": "Forward",
     "description": "Forward button name in the message more menu"
   },
 
   "message.fromHeader": {
-    "message": "from:",
+    "message": "From:",
     "description": "Header name displayed for the from field"
   },
 
   "message.toHeader": {
-    "message": "to:",
+    "message": "To:",
     "description": "Header name displayed for the to field"
   },
 
   "message.ccHeader": {
-    "message": "cc:",
+    "message": "CC:",
     "description": "Header name displayed for the cc field"
   },
 
@@ -492,22 +492,22 @@
   },
 
   "attachments.downloadAll.tooltip": {
-    "message": "save all",
+    "message": "Save all",
     "description": "Tooltip for the download all attachments button."
   },
 
   "attachments.gallery.tooltip": {
-    "message": "gallery view",
+    "message": "Gallery view",
     "description": "Tooltip for the view attachments in gallery button."
   },
 
   "attachments.preview.tooltip": {
-    "message": "preview",
+    "message": "Preview",
     "description": "Tooltip displayed for the preview button of an attachment."
   },
 
   "attachments.open.tooltip": {
-    "message": "open",
+    "message": "Open",
     "description": "Tooltip displayed for the preview button of an attachment."
   },
 
@@ -517,27 +517,27 @@
   },
 
   "attachments.download.tooltip": {
-    "message": "save",
+    "message": "Dave",
     "description": "Tooltip displayed for the download button of an attachment."
   },
 
   "messageBody.hideQuotedText": {
-    "message": "hide quoted text",
+    "message": "Hide Quoted Text",
     "description": "String displayed in a message body to collapse the quoted text."
   },
 
   "messageBody.showQuotedText": {
-    "message": "show quoted text",
+    "message": "Show Quoted Text",
     "description": "String displayed in a message body to expand the quoted text."
   },
 
   "messageBody.hideSigText": {
-    "message": "hide signature",
+    "message": "Hide Signature",
     "description": "String displayed in a message body to collapse the signature."
   },
 
   "messageBody.showSigText": {
-    "message": "show signature",
+    "message": "Show Signature",
     "description": "String displayed in a message body to expand the signature."
   },
 
@@ -552,12 +552,12 @@
   },
 
   "attachments.context.detach": {
-    "message": "Detach attachment",
+    "message": "Detach Attachment",
     "description": "Context menu item to detach an attachment."
   },
 
   "attachments.context.delete": {
-    "message": "Delete attachment",
+    "message": "Delete Attachment",
     "description": "Context menu item to delete an attachment."
   },
 
@@ -567,7 +567,7 @@
   },
 
   "attachments.numAttachments": {
-    "message": "one attachment;$num$ attachments",
+    "message": "One Attachment;$num$ Attachments",
     "description": "The description used for how many attachments there are. This should take the form of a plural form, see also 'pluralForm'.",
     "placeholders": {
       "num": {
@@ -598,22 +598,22 @@
   },
 
   "message.headerSubject": {
-    "message": "subject",
+    "message": "Subject",
     "description": "Name for the Subject header that is displayed when you click the show details button."
   },
 
   "message.headerDate": {
-    "message": "date",
+    "message": "Date",
     "description": "Name for the Date header that is displayed when you click the show details button."
   },
 
   "message.headerFolder": {
-    "message": "folder",
+    "message": "Folder",
     "description": "Name for the Folder header that is displayed when you click the show details button."
   },
 
   "involvingTabTitle": {
-    "message": "Messages involving $contactName$",
+    "message": "Messages Involving $contactName$",
     "description": "This is used when we click on the \"recent conversations\" button in a contact tooltip. This is the title of the tab that opens.",
     "placeholders": {
       "contactName": {
@@ -644,7 +644,7 @@
   },
 
   "attachments.sizeUnknown": {
-    "message": "size unknown",
+    "message": "Size Unknown",
     "description": "The message displayed when an attachment size is unknown."
   },
 
@@ -710,7 +710,7 @@
   },
 
   "enigmail.messageSigned": {
-    "message": "signed",
+    "message": "Signed",
     "description": "Tag description displayed when a message is signed."
   },
 
@@ -720,7 +720,7 @@
   },
 
   "enigmail.messageBadSignature": {
-    "message": "bad signature",
+    "message": "Bad Signature",
     "description": "Tag description displayed when a message is signed but has a bad signature"
   },
 
@@ -730,7 +730,7 @@
   },
 
   "enigmail.messageDecrypted": {
-    "message": "decrypted",
+    "message": "Decrypted",
     "description": "Tag description displayed when a message has been decrypted."
   },
 
@@ -755,57 +755,57 @@
   },
 
   "compose.addCc": {
-    "message": "add cc",
+    "message": "Add CC",
     "description": "Link to click to add a cc when composing messages."
   },
 
   "compose.addBcc": {
-    "message": "add bcc",
+    "message": "Add BCC",
     "description": "Link to click to add bcc when composing messages."
   },
 
   "compose.addAttachment": {
-    "message": "add attachments",
+    "message": "Add Attachments",
     "description": "Link to add an attachment when composing messages."
   },
 
   "compose.removeAttachment": {
-    "message": "remove",
+    "message": "Remove",
     "description": "Link to remove an attachment when composing messages."
   },
 
   "compose.fieldBcc": {
-    "message": "bcc:",
+    "message": "BCC:",
     "description": "Field name for the bcc field when composing messages."
   },
 
   "compose.fieldSubject": {
-    "message": "subject:",
+    "message": "Subject:",
     "description": "Field name for the subject field when composing messages."
   },
 
   "compose.editField": {
-    "message": "edit",
+    "message": "Edit",
     "description": "Link title to edit a particular field when composing messages."
   },
 
   "compose.send": {
-    "message": "send",
+    "message": "Send",
     "description": "Button name to send a message."
   },
 
   "compose.sendArchive": {
-    "message": "send &amp; archive",
+    "message": "Send &amp; Archive",
     "description": "Button name to send and archive a message."
   },
 
   "compose.save": {
-    "message": "save",
+    "message": "Save",
     "description": "Button name to save a message as draft."
   },
 
   "compose.discard": {
-    "message": "discard",
+    "message": "Discard",
     "description": "Button name to discard a message draft."
   },
 
@@ -815,22 +815,22 @@
   },
 
   "compose.showMore": {
-    "message": "show more…",
+    "message": "Show More…",
     "description": "Show more link for showing more contacts."
   },
 
   "enigmail.encrypt": {
-    "message": "encrypt",
+    "message": "Encrypt",
     "description": "Checkbox label for specifying encryption of a message to be sent."
   },
 
   "enigmail.sign": {
-    "message": "sign",
+    "message": "Sign",
     "description": "Checkbox label for specifying signing of a message to be sent."
   },
 
   "enigmail.unknownGood": {
-    "message": "unknown good signature",
+    "message": "Unknown good signature",
     "description": "Tooltip displayed when a signature is good but unverified."
   },
 
