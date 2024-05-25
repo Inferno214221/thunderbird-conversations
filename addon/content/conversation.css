@@ -99,11 +99,11 @@ a img {
 
 .icon-link {
   display: inline-block;
-  color: #666;
+  color: #bbbbbd;
 }
 .icon-link:focus,
 .icon-link:hover {
-  color: -moz-CellHighlight;
+  color: #888a8d;
 }
 
 .link:hover,
@@ -149,7 +149,7 @@ a img {
   text-align: center;
   height: 24px;
   margin: 0 0 0 3px;
-  color: #666;
+  color: #bbbbbd;
 }
 
 .actions .unread {
@@ -618,7 +618,7 @@ html[dir="rtl"] .attachmentsDropDown .arrow {
 }
 
 .attachmentIcon {
-  color: #666;
+  color: #bbbbbd;
 }
 
 .attachmentIcon .icon {
@@ -648,8 +648,8 @@ html[dir="rtl"] .attachmentsDropDown .arrow {
   width: 130px;
   padding: 4px;
   border: 1px solid ThreeDShadow;
-  background-color: #fff;
-  background-image: linear-gradient(to bottom, #fff 0%, #f2f2f2 100%);
+  background-color: #23252e;
+  /* background-image: linear-gradient(to bottom, #fff 0%, #f2f2f2 100%); */
   margin: 0 20px 0 0;
   display: flex;
   align-content: center;
@@ -718,7 +718,7 @@ html[dir="rtl"] .attachmentsDropDown .arrow {
   font-size: 120%;
   background: none;
   border: 0;
-  color: #666;
+  color: #bbbbbd;
   width: 2em;
   height: 2em;
   border-radius: 1em;
@@ -727,7 +727,7 @@ html[dir="rtl"] .attachmentsDropDown .arrow {
 
 .footerActions button:hover,
 .footerActions button:focus {
-  color: -moz-CellHighlight;
+  color: #888a8d;
 }
 
 .messageFooter.hide .footerActions {

@@ -82,11 +82,11 @@ export let conversationUtils = new (class {
             ]
           : [],
         [
-          '<span style="color: #666">',
+          '<span style="color: #bbbbbd">',
           msg.fullDate,
           "</span>",
           "</div>",
-          '<div style="color: #666">',
+          '<div style="color: #bbbbbd">',
           body,
           "</div>",
         ]

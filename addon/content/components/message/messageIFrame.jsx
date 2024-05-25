@@ -571,7 +571,7 @@ export class MessageIFrame extends React.Component {
       'blockquote[type="cite"] {',
       "  border-right-width: 0px;",
       "  border-left: 1px #ccc solid;",
-      "  color: #666 !important;",
+      "  color: #bbbbbd !important;",
       "}",
       "span.moz-txt-formfeed {",
       "  height: auto;",

@@ -42,7 +42,7 @@ describe("conversationUtils", () => {
 
       expect(composeSpy).toHaveBeenCalled();
       expect(composeSpy.mock.calls[0][0]).toStrictEqual({
-        body: `<html><body><p>Here\'s a conversation I thought you might find interesting!</p><div style="border-top: 1px solid #888; height: 15px; width: 70%; margin: 0 auto; margin-top: 15px">&nbsp;</div><div style="font-family: sans-serif !important;"><div style="overflow: auto"><img src="avatar.jpg" style="float: left; height: 48px; margin-right: 5px" /><b><span><a style="color: green !important; text-decoration: none !important; font-weight: bold" href="mailto:me@example.com">foo</a></span></b><br /><span style="color: #666">${fullDate}</span></div><div style="color: #666"><br>MsgBody</div></div>`,
+        body: `<html><body><p>Here\'s a conversation I thought you might find interesting!</p><div style="border-top: 1px solid #888; height: 15px; width: 70%; margin: 0 auto; margin-top: 15px">&nbsp;</div><div style="font-family: sans-serif !important;"><div style="overflow: auto"><img src="avatar.jpg" style="float: left; height: 48px; margin-right: 5px" /><b><span><a style="color: green !important; text-decoration: none !important; font-weight: bold" href="mailto:me@example.com">foo</a></span></b><br /><span style="color: #bbbbbd">${fullDate}</span></div><div style="color: #bbbbbd"><br>MsgBody</div></div>`,
         identityId: "idac34",
         isPlainText: false,
       });
